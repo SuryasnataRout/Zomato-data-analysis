@@ -1,0 +1,1 @@
+An exploratory data analysis project on Zomato’s restaurant dataset using Python, Pandas, and Matplotlib. Provides insights into ratings, cuisines, locations, and more. Ideal for showcasing data wrangling, visualization, and EDA skills.
